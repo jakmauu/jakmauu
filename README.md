@@ -1,6 +1,6 @@
 # 💫 Hi there! I'm Muhamad Dzakry Maulana (jakmauu) 💻
 
-### I am a Computer Engineering Student at UI, focused on secure Full-Stack Development.
+### I am a Computer Engineering Student at UI, focused on secure Full-Stack Development and Cyber Security.
 
 <p align="left">
   <a href="https://skillicons.dev">
