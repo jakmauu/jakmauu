@@ -13,7 +13,6 @@
 ### 🚀 What I am Currently Focused On:
 
 * **Tech Stack:** Building secure Full-Stack applications with **React.js** and **Node.js/Express**.
-* **Security Focus:** Mastering mitigation strategies for **OWASP Top 10** vulnerabilities.
 * **Exploring:** Diving deeper into containerization and deployment using **Docker**.
 
 ---
