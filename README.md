@@ -13,7 +13,7 @@
 ### 🚀 What I am Currently Focused On:
 
 * **Tech Stack:** Building secure Full-Stack applications with **React.js** and **Node.js/Express**.
-* **Exploring:** Diving deeper into containerization and deployment using **Docker**.
+* **Exploring:** Diving deeper into containerization and deployment using **Vercel**.
 
 ---
 
